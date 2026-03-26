@@ -40,7 +40,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |    1m            |    10v              |     3.6v               |
 
 ### Calculation
-![WhatsApp Image 2026-03-25 at 3 33 56 PM](https://github.com/user-attachments/assets/49c0b508-147c-44a6-907e-465081cb9d84)
+![EXP2](https://github.com/user-attachments/assets/6369d1f3-d965-4230-ada8-2c18f00e6230)
+
 
 
 
